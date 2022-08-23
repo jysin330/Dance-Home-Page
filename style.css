@@ -159,7 +159,7 @@ button.button {
 
     height: 30em;
     display: flex;
-    /* flex-wrap: wrap; */
+
     justify-content: space-between;
 
 }
